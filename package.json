@@ -1,0 +1,15 @@
+{
+  "title": "Community Market Search",
+  "name": "communitymarketsearch",
+  "version": "0.0.1",
+  "description": "Add-on that adds a context menu that allows users to easily search on Community Market.",
+  "main": "scripts/main.js",
+  "author": "Yusyuriv",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "homepage": "http://lab.nyan.link/community-market-search/",
+  "id": "community_market_search@lab.nyan.link",
+  "license": "MIT"
+}
